@@ -35,3 +35,10 @@
             text-decoration: none;
             color: #bbb;
         }
+        .thing-card {
+            background-color: #333;
+            border-radius: 10px;
+            padding: 5px;
+            height: 250px;
+            width: 150px;
+        }
