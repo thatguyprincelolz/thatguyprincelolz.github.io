@@ -35,6 +35,9 @@
             text-decoration: none;
             color: #bbb;
         }
+        .thing-wrapper {
+            display: flex;
+        }
         .thing-card {
             background-color: #333;
             border-radius: 10px;
