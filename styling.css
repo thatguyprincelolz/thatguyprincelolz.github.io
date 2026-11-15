@@ -36,7 +36,7 @@
             color: #bbb;
         }
         .thing-wrapper {
-            display: flex;
+            display: normal;
         }
         .thing-card {
             background-color: #333;
